@@ -1,0 +1,125 @@
+body{
+    margin: 0 auto;
+    color: black;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.first-section{
+    display: flex;
+}
+.font-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.left-sec{
+    padding-top: 200px;
+}
+.left-sec p{
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+.half-width img{
+    width: 70%;
+    padding-top: 0;
+    padding-left: 5%;
+}
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 40px;
+    border: 1px solid grey;
+    border-radius: 7px;
+    background-image: linear-gradient(#f56360, #fb7462 );
+    font-size: 20px;
+    font-weight: 900; 
+}
+.second-section{
+    display: flex;
+}
+.second-section img{
+    padding-top: 80px;
+}
+.third-section h2{
+    text-align: center;
+}
+.cards{
+    display: flex;
+}
+.card img{
+    width: 70%;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+}
+.card{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 40px grey;
+
+}
+.card-margin{
+    margin-left: 12%;
+    margin-right: 12%;
+}.third-section{
+    background-color: #f8f9fc;
+    padding-bottom: 50px;
+}
+.fourth-section{
+    background-image: url(shapes/background.png);
+    background-size: 80% 80%; 
+    background-repeat: no-repeat; 
+    margin-left: 15%;
+}
+.fourth-sec-inner{
+    display: flex;
+}
+#work-inquery{
+    width: 50%;
+    padding-left: 40px;
+    padding-bottom:20px;
+    color: #f8f9fc;
+}
+.fourth-button{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 16px 30px;
+    border: 1px solid grey;
+    border-radius: 7px;
+    background-image: linear-gradient(#f56360, #fb7462 );
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 40px; 
+    margin-bottom: 70px;
+    margin-left: 60px;
+}
+.logo-section{
+    text-align: center;
+    margin-bottom: 50px;
+}
+h6{
+    font-size: 20px;
+}
+.fifth-section{
+    background-color:#011627 ;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    font-family: fantasy;
+    margin-top: 40px;
+}
+footer p{
+    text-align: center;
+}
